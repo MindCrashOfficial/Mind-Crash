@@ -177,9 +177,7 @@ Comprehensive documentation is available at [MindCrash Docs](https://mindcrashof
 ## Community & Support
 
 - Follow us on [𝕏 (Twitter)](https://x.com/mindcrashsol)
-- Join our [Discord Community](https://discord.gg/mindcrash)
 - Read our [Blog](https://mindcrashofficial.gitbook.io/mindcrashofficial/blog)
-- Email Support: support@mindcrash.io
 
 ## License
 
