@@ -74,9 +74,9 @@ Our frontend architecture leverages the latest advancements in web technology to
 
 ### AI & Data Processing
 
-The AI and data processing infrastructure of MindCrash represents a sophisticated fusion of cutting-edge artificial intelligence technologies and high-performance computing systems. Our custom analytics engine processes market data through multiple layers of analysis, employing advanced machine learning models for pattern recognition, anomaly detection, and predictive analytics. The integration of Cohere AI provides state-of-the-art natural language processing capabilities, enabling nuanced analysis of market sentiment and news impact.
+The AI and data processing infrastructure of MindCrash represents a sophisticated fusion of cutting-edge artificial intelligence technologies and high-performance computing systems. Our custom analytics engine processes market data through multiple layers of analysis, employing advanced machine learning models for pattern recognition, anomaly detection, and predictive analytics. The integration of Claude AI provides state-of-the-art natural language processing capabilities, enabling nuanced analysis of market sentiment and news impact.
 
-- **Cohere AI**: Advanced language model integration
+- **Claude AI**: Advanced language model integration
 - **Chart.js**: Professional-grade chart rendering
 - **Custom Analytics Engine**: Proprietary market data processing
 
