@@ -1,7 +1,7 @@
-# <div align="center"> MindCrash: Digital Market Archives
+# <div align="center"> MindCrash: Market Archives
 
 <div align="center">
-  <img src="https://res.cloudinary.com/dtm10i7bj/image/upload/v1738855782/a467cf9b-d62e-40e1-9d5c-2ee8e684b4a4-modified_ltowmk.png" alt="MindCrash Logo" width="200" style="margin: 20px 0"/>
+  <img src="https://github.com/user-attachments/assets/eb267983-2f27-4953-a56e-1f903b4f4460" alt="MindCrash Logo" width="300" style="margin: 20px 0"/>
 
   <p align="center">
     <a href="https://x.com/mindcrashsol" target="_blank">
