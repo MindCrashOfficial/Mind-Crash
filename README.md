@@ -1,4 +1,4 @@
-# MindCrash: Digital Market Archives
+# <div align="center"> MindCrash: Digital Market Archives
 
 <div align="center">
   <img src="https://res.cloudinary.com/dtm10i7bj/image/upload/v1738855782/a467cf9b-d62e-40e1-9d5c-2ee8e684b4a4-modified_ltowmk.png" alt="MindCrash Logo" width="200" style="margin: 20px 0"/>
@@ -24,9 +24,9 @@ MindCrash represents the pinnacle of modern market analysis technology, seamless
 In an era where market dynamics are increasingly influenced by technological disruption, MindCrash stands at the forefront of innovation in market analysis. Our platform has been meticulously designed to track and analyze the intricate patterns that emerge at the intersection of traditional finance and technological advancement. From the rise of artificial intelligence and its impact on market movements to the evolution of digital assets and their growing influence on global financial systems, MindCrash provides comprehensive coverage that helps users stay ahead of market trends and make informed decisions in an ever-evolving financial landscape.
 
 ### Brand Colors
-- ![#39ff14](https://via.placeholder.com/15/39ff14/000000?text=+) `#39ff14` - Neon Green
-- ![#ff00ff](https://via.placeholder.com/15/ff00ff/000000?text=+) `#ff00ff` - Neon Pink
-- ![#00ffff](https://via.placeholder.com/15/00ffff/000000?text=+) `#00ffff` - Neon Blue
+- `#39ff14` - Neon Green
+- `#ff00ff` - Neon Pink
+- `#00ffff` - Neon Blue
 
 ## Core Features
 
